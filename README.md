@@ -1,17 +1,59 @@
-# Hi, I'm M. Rahul
+<h1 align="center">M. Rahul</h1>
 
-I build practical Android and web projects, with a focus on useful tools, offline-first experiences, and clear documentation.
+<p align="center">
+  B.Tech graduate in Artificial Intelligence and Machine Learning<br>
+  Aspiring Software Developer
+</p>
 
-## Current focus
+<p align="center">
+  Building offline-first Android apps and useful web projects.
+</p>
 
-- Android development with Kotlin, Jetpack Compose, and Media3
-- Front-end projects using HTML, CSS, and JavaScript
-- Building software that is straightforward to use and maintain
+<p align="center">
+  <a href="https://rahul2rcf-netizen.github.io/resourcenest/">Live ResourceNest site</a>
+  ·
+  <a href="https://github.com/rahul2rcf-netizen">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/m-rahul-a12384358/">LinkedIn</a>
+</p>
 
-## Featured project
+### About
 
-- [ResourceNest](https://github.com/rahul2rcf-netizen/resourcenest) — a resource hub for students, developers, recent graduates, and job seekers. It brings learning guides, roadmaps, developer documentation, and career preparation into one browsable site.
+I’m a B.Tech AI/ML graduate building Android and web projects. I’m currently focused on practical, well-documented software, including offline-first Android playback and browser-based learning tools.
 
-## On this profile
+### Selected projects
 
-You’ll find projects and learning notes as they develop. Some repositories are works in progress; each project’s README is the best place to start.
+- **[ResourceNest](https://github.com/rahul2rcf-netizen/resourcenest)** · [Live site](https://rahul2rcf-netizen.github.io/resourcenest/)  
+  A static resource hub with searchable learning links, topic filters, browser-saved roadmaps, and career preparation checklists. Built with HTML, CSS, and JavaScript.
+
+- **[RAYA Life OS](https://github.com/rahul2rcf-netizen/RAYA-Life-Os)**  
+  A React and TypeScript self-reflection dashboard for journaling, goals, routines, and mindful reminders. Optional Gemini features require configuration.
+
+### Technologies
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
+![Media3](https://img.shields.io/badge/Android%20Media3-3DDC84?logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+
+### GitHub activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rahul2rcf-netizen&show_icons=true&hide_rank=true&theme=default"
+    alt="GitHub profile statistics">
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul2rcf-netizen&layout=compact&theme=default"
+    alt="Languages in public repositories">
+</p>
+
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/rahul2rcf-netizen"
+    alt="GitHub contribution activity by day">
+</p>
