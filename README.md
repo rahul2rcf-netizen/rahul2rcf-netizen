@@ -29,6 +29,9 @@ I’m a B.Tech AI/ML graduate building Android and web projects. I’m currently
 - **[RAYA Life OS](https://github.com/rahul2rcf-netizen/RAYA-Life-Os)**  
   A React and TypeScript self-reflection dashboard for journaling, goals, routines, and mindful reminders. Optional Gemini features require configuration.
 
+- **[Personal AI OS](https://github.com/rahul2rcf-netizen/MicroServises-notes)** · repository currently named `MicroServises-notes`  
+  A React and TypeScript workspace project for notes, tasks, goals, planning, and a learning journal, with optional AI assistance. This project is in progress.
+
 ### Technologies
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
@@ -57,3 +60,5 @@ I’m a B.Tech AI/ML graduate building Android and web projects. I’m currently
     src="https://ghchart.rshah.org/rahul2rcf-netizen"
     alt="GitHub contribution activity by day">
 </p>
+
+See [all public repositories](https://github.com/rahul2rcf-netizen?tab=repositories).
