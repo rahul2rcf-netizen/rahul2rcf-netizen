@@ -26,8 +26,8 @@ I’m a B.Tech AI/ML graduate building Android and web projects. I’m currently
 - **[ResourceNest](https://github.com/rahul2rcf-netizen/resourcenest)** · [Live site](https://rahul2rcf-netizen.github.io/resourcenest/)  
   A static resource hub with searchable learning links, topic filters, browser-saved roadmaps, and career preparation checklists. Built with HTML, CSS, and JavaScript.
 
-- **[CareerLens AI](https://github.com/rahul2rcf-netizen/careerlence)**  
-  A Streamlit resume-to-role workspace with evidence-linked skill matches, role-specific gaps, a transparent ATS-style estimate, and an opt-in AI resume enhancer. Review AI drawbacks and suggestions, edit the draft, then compare the original and revised estimates before choosing to apply it. The sample workflow runs without an API key; AI rewriting uses the user's own Groq key.
+- **[CareerLens AI](https://github.com/rahul2rcf-netizen/careerlence)** · [Interactive demo](https://rahul2rcf-netizen.github.io/careerlence/)  
+  A privacy-aware resume-to-role review workspace with evidence-linked skill matches, role-specific gaps, a transparent ATS-style estimate, and an opt-in AI enhancer. The demo uses fictional sample data and runs in the browser; the full Streamlit app supports PDF/DOCX/TXT analysis and optional Groq rewriting.
 
 - **[RAYA Life OS](https://github.com/rahul2rcf-netizen/RAYA-Life-Os)**  
   A React and TypeScript self-reflection dashboard for journaling, goals, routines, and mindful reminders. Optional Gemini features require configuration.
