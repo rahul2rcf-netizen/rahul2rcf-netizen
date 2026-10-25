@@ -27,7 +27,7 @@ I’m a B.Tech AI/ML graduate building Android and web projects. I’m currently
   A static resource hub with searchable learning links, topic filters, browser-saved roadmaps, and career preparation checklists. Built with HTML, CSS, and JavaScript.
 
 - **[CareerLens AI](https://github.com/rahul2rcf-netizen/careerlence)**  
-  A polished Streamlit app that compares a resume with one job description, surfaces skill evidence and apparent gaps, explains its weighted estimate, and exports a Markdown report. Runs locally; no external AI service or database is used.
+  A Streamlit resume-to-role workspace with evidence-linked skill matches, role-specific gaps, a transparent ATS-style estimate, and an opt-in AI resume enhancer. Review AI drawbacks and suggestions, edit the draft, then compare the original and revised estimates before choosing to apply it. The sample workflow runs without an API key; AI rewriting uses the user's own Groq key.
 
 - **[RAYA Life OS](https://github.com/rahul2rcf-netizen/RAYA-Life-Os)**  
   A React and TypeScript self-reflection dashboard for journaling, goals, routines, and mindful reminders. Optional Gemini features require configuration.
