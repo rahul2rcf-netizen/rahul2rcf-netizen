@@ -26,6 +26,9 @@ I’m a B.Tech AI/ML graduate building Android and web projects. I’m currently
 - **[ResourceNest](https://github.com/rahul2rcf-netizen/resourcenest)** · [Live site](https://rahul2rcf-netizen.github.io/resourcenest/)  
   A static resource hub with searchable learning links, topic filters, browser-saved roadmaps, and career preparation checklists. Built with HTML, CSS, and JavaScript.
 
+- **[CareerLens AI](https://github.com/rahul2rcf-netizen/careerlence)**  
+  A polished Streamlit app that compares a resume with one job description, surfaces skill evidence and apparent gaps, explains its weighted estimate, and exports a Markdown report. Runs locally; no external AI service or database is used.
+
 - **[RAYA Life OS](https://github.com/rahul2rcf-netizen/RAYA-Life-Os)**  
   A React and TypeScript self-reflection dashboard for journaling, goals, routines, and mindful reminders. Optional Gemini features require configuration.
 
