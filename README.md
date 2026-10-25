@@ -26,7 +26,7 @@ I’m a B.Tech AI/ML graduate building Android and web projects. I’m currently
 - **[ResourceNest](https://github.com/rahul2rcf-netizen/resourcenest)** · [Live site](https://rahul2rcf-netizen.github.io/resourcenest/)  
   A static resource hub with searchable learning links, topic filters, browser-saved roadmaps, and career preparation checklists. Built with HTML, CSS, and JavaScript.
 
-- **[CareerLens AI](https://github.com/rahul2rcf-netizen/careerlence)** · [Interactive demo](https://rahul2rcf-netizen.github.io/careerlence/)  
+- **[CareerLens AI](https://github.com/rahul2rcf-netizen/careerlence)** · [Interactive demo URL](https://rahul2rcf-netizen.github.io/careerlence/)  
   A privacy-aware resume-to-role review workspace with evidence-linked skill matches, role-specific gaps, a transparent ATS-style estimate, and an opt-in AI enhancer. The demo uses fictional sample data and runs in the browser; the full Streamlit app supports PDF/DOCX/TXT analysis and optional Groq rewriting.
 
 - **[RAYA Life OS](https://github.com/rahul2rcf-netizen/RAYA-Life-Os)**  
