@@ -1,35 +1,41 @@
-# M. Rahul
+<div align="center">
 
-**AI/ML graduate · Software developer**
+# Hi, I'm M. Rahul 👋
 
-I build Android and web applications with a focus on practical features, clear interfaces, and thoughtful privacy.
+### AI/ML Graduate · Software Developer
 
-[LinkedIn](https://www.linkedin.com/in/m-rahul-a12384358/) · [All repositories](https://github.com/rahul2rcf-netizen?tab=repositories) · [ResourceNest live site](https://rahul2rcf-netizen.github.io/resourcenest/)
+I build useful web and Android products, with a focus on thoughtful UX, practical AI, and privacy-aware design.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rahul-a12384358/)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white)](https://github.com/rahul2rcf-netizen?tab=repositories)
+[![ResourceNest](https://img.shields.io/badge/ResourceNest-Live%20site-2E8B57?style=flat)](https://rahul2rcf-netizen.github.io/resourcenest/)
+
+</div>
+
+---
+
+## What I build
+
+I enjoy taking ideas from a clear problem statement to a working product—from backend APIs and retrieval pipelines to responsive interfaces and Android apps.
 
 ## Featured projects
 
-### [EvidenceDesk](https://github.com/rahul2rcf-netizen/nevidencedesk)
-Local-first document question answering with page-level citations, PDF/TXT ingestion, hybrid retrieval, and an abstention path. Built with Python, FastAPI, React, TypeScript, and SQLite.
+| Project | What it does | Built with |
+|---|---|---|
+| [EvidenceDesk](https://github.com/rahul2rcf-netizen/nevidencedesk) | Local-first document Q&A with hybrid search, page-level citations, and an answer abstention path. Its included evaluation uses a fictional handbook and 50 synthetic questions; results are experimental and not human-reviewed. | Python · FastAPI · React · TypeScript · SQLite |
+| [CareerLens AI](https://github.com/rahul2rcf-netizen/careerlence) · [Demo](https://raw.githack.com/rahul2rcf-netizen/careerlence/main/docs/index.html) | Resume-to-role review with evidence-linked skill matches and role-specific gaps. The demo uses fictional sample data. | AI · Web |
+| [RAYA Life OS](https://github.com/rahul2rcf-netizen/RAYA-Life-Os) | Personal dashboard for journaling, goals, routines, and mindful reminders, with optional Gemini features. | React · TypeScript |
+| [ResourceNest](https://github.com/rahul2rcf-netizen/resourcenest) · [Live site](https://rahul2rcf-netizen.github.io/resourcenest/) | Learning-resource hub with search, topic filters, saved roadmaps, and career checklists. | HTML · CSS · JavaScript |
+| [Personal AI OS](https://github.com/rahul2rcf-netizen/MicroServises-notes) | Work-in-progress workspace for notes, tasks, goals, planning, and a learning journal. | React · TypeScript |
 
-The included evaluation uses a fictional handbook and 50 synthetic questions. Its retrieval metrics are experimental and have not been human reviewed.
+## Tools I work with
 
-### [CareerLens AI](https://github.com/rahul2rcf-netizen/careerlence) · [Interactive demo](https://raw.githack.com/rahul2rcf-netizen/careerlence/main/docs/index.html)
-Resume-to-role review with evidence-linked skill matches, role-specific gaps, and an opt-in AI rewriting workflow. The browser demo uses fictional sample data; the full app supports PDF, DOCX, and TXT analysis.
+**Languages** · Python · Kotlin · TypeScript · JavaScript  
+**Backend & data** · FastAPI · SQLite  
+**Frontend & Android** · React · Jetpack Compose · Android Media3
 
-### [RAYA Life OS](https://github.com/rahul2rcf-netizen/RAYA-Life-Os)
-A React and TypeScript dashboard for journaling, goals, routines, and mindful reminders, with optional Gemini features.
+## Let’s connect
 
-### [ResourceNest](https://github.com/rahul2rcf-netizen/resourcenest) · [Live site](https://rahul2rcf-netizen.github.io/resourcenest/)
-A lightweight learning-resource hub with search, topic filters, browser-saved roadmaps, and career checklists. Built with HTML, CSS, and JavaScript.
+I’m always glad to talk about software, applied AI, and building useful products.
 
-### [Personal AI OS](https://github.com/rahul2rcf-netizen/MicroServises-notes)
-A React and TypeScript workspace for notes, tasks, goals, planning, and a learning journal. This project is in progress.
-
-## Technologies
-
-**Languages:** Python, Kotlin, TypeScript, JavaScript  
-**Frameworks and tools:** FastAPI, React, Jetpack Compose, Android Media3, SQLite
-
-## Contact
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/m-rahul-a12384358/) or explore my [public repositories](https://github.com/rahul2rcf-netizen?tab=repositories).
+[LinkedIn](https://www.linkedin.com/in/m-rahul-a12384358/) · [Explore my repositories](https://github.com/rahul2rcf-netizen?tab=repositories)
