@@ -6,13 +6,20 @@
 
 I build practical web and Android products and explore applied AI, document intelligence, and privacy-aware design.
 
-[LinkedIn](https://www.linkedin.com/in/m-rahul-a12384358/) · [GitHub projects](https://github.com/rahul2rcf-netizen?tab=repositories) · [ResourceNest live site](https://rahul2rcf-netizen.github.io/resourcenest/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-rahul-a12384358/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rahul2rcf@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white)](https://github.com/rahul2rcf-netizen?tab=repositories)
+[![ResourceNest](https://img.shields.io/badge/ResourceNest-Live%20site-2E8B57?style=flat)](https://rahul2rcf-netizen.github.io/resourcenest/)
 
 </div>
 
 ---
 
-## Featured work
+## About
+
+I’m an AI/ML graduate and software developer interested in building useful products, from document intelligence and retrieval workflows to responsive web and Android apps. I enjoy thoughtful product design and collaborating on practical AI and developer tools.
+
+## Featured projects
 
 | Project | Overview |
 |---|---|
@@ -24,15 +31,20 @@ I build practical web and Android products and explore applied AI, document inte
 
 ## Technologies
 
-- **Languages:** Python, Kotlin, TypeScript, JavaScript, Solidity, Groovy
+- **Languages:** Python, Kotlin, TypeScript, JavaScript, Solidity, Apache Groovy
 - **Web and backend:** React, FastAPI, HTML, CSS
 - **Android:** Jetpack Compose, Android Media3
 - **Data and machine learning:** SQLite, Pandas, NumPy, PyTorch
 - **Cloud and delivery:** Docker, AWS, Google Cloud, Vercel
 - **Creative tools:** Adobe Premiere Pro
 
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=rahul2rcf-netizen&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rahul2rcf-netizen&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages" />
+</p>
+
 ## Connect
 
-I’m interested in building useful software and discussing applied AI, product engineering, and developer tools.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/m-rahul-a12384358/) · [Browse all repositories](https://github.com/rahul2rcf-netizen?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/m-rahul-a12384358/) · [Email](mailto:rahul2rcf@gmail.com) · [All repositories](https://github.com/rahul2rcf-netizen?tab=repositories)
